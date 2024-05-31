@@ -1,6 +1,6 @@
 # Aplicativo para calcular se é Ano Bissexto
 
-![](AnoBissexto_app)
+![](AnoBissexto_app.png)
 
 ## Descrição
 Esse é um aplicativo simples e intuitivo que permite aos usuários verificar se um determinado ano é bissexto ou não. Ele fornece uma maneira rápida e confiável de resolver essa dúvida comum.
